@@ -54,6 +54,7 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Bang EeunKyeong
+   bio: "개인 포트폴리오 블로그"
+  url: https://github.com/Bang04/
+  email: eunkyeong_b@naver.com
